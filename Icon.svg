@@ -1,0 +1,8 @@
+<svg id="Icon_" data-name="Icon " xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Area_ICON:feather_arrow-down-circle_SIZE:LARGE_STYLE:STYLE1_" data-name="Area [ICON:feather/arrow-down-circle][SIZE:LARGE][STYLE:STYLE1]" width="24" height="24" fill="#fcfcfc" opacity="0"/>
+  <g id="Icon" transform="translate(-1 -1)">
+    <path id="Path" d="M10-1A11,11,0,0,1,21,10,11,11,0,0,1,10,21,11,11,0,0,1-1,10,11,11,0,0,1,10-1Zm0,20a9,9,0,1,0-9-9A9.01,9.01,0,0,0,10,19Z" transform="translate(3 3)" fill="#1c2126"/>
+    <path id="Path-2" data-name="Path" d="M12,17a1,1,0,0,1-.707-.293l-4-4a1,1,0,0,1,1.414-1.414L12,14.586l3.293-3.293a1,1,0,1,1,1.414,1.414l-4,4A1,1,0,0,1,12,17Z" transform="translate(1 1)" fill="#1c2126"/>
+    <path id="Line" d="M0,9A1,1,0,0,1-1,8V0A1,1,0,0,1,0-1,1,1,0,0,1,1,0V8A1,1,0,0,1,0,9Z" transform="translate(13 9)" fill="#1c2126"/>
+  </g>
+</svg>
